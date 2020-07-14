@@ -1,4 +1,4 @@
-<img style="display: inline" src="./nyan.gif" height="75" />
+<img src="https://github.com/Namchee/namchee/blob/master/nyan.gif" height="75" />
 
 ## Who the hell?
 
