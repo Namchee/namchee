@@ -1,4 +1,4 @@
-<img src="https://github.com/Namchee/namchee/blob/master/nyan.gif" height="75" />
+[![Namchee's github stats](https://github-readme-stats.vercel.app/api?username=namchee&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Who the hell?
 
