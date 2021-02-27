@@ -1,15 +1,15 @@
 # Who the hell?
 
-Hiya, Namchee here 👋. Real name is Cristopher (he / his), but too much Chris is confusing no? I'm currently pursuing my bachelor degree at [Parahyangan Catholic University](http://unpar.ac.id/). I love web development, both back-end and front-end stuff.
+Hiya, Namchee here 👋. Real name is Cristopher (he / his), but too much Chris is confusing no? I'm currently pursuing my bachelor degree at [Parahyangan Catholic University](http://unpar.ac.id/). I love to create and play with programming stuff. Although I'm a full-stack developer, I prefer back-end development. When I'm free, I work on my open-source projects, usually in NodeJS.
 
 ## GitHub Status
 
-[![Namchee's github stats](https://github-readme-stats.vercel.app/api?username=namchee&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Namchee's most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=namchee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<p float="middle">
+    <img src="https://github-readme-stats.vercel.app/api?username=namchee&show_icons=true" title="Namchee's GitHub Status" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namchee&layout=compact" title="Namchee's Favorite Languages" />
+</p>
 ## Contact
 
-🌐 **[Personal Site](https://namchee.netlify.app/)**<br />
+🌐 ~**[Personal Site](https://namchee.netlify.app/)**~ In Progress<br />
 🐦 **[Twitter](https://twitter.com/lakban_hitam)**<br />
 🐱 **[GitHub](https://github.com/Namchee)**
