@@ -13,7 +13,7 @@
 </p>
 
 
-Hiya there, Namchee here 👋. Real name is Cristopher (he / his), but too much Chris is confusing no? I'm currently pursuing my bachelor degree at [Parahyangan Catholic University](http://unpar.ac.id/). I love to create and play with programming stuff.
+Hiya there, Namchee here 👋. My real name is Cristopher, but too much Chris is confusing no? I'm currently pursuing my bachelor degree at [Parahyangan Catholic University](http://unpar.ac.id/). I love to create and play with programming stuff.
 
 Although I'm a full-stack developer, I prefer back-end development. When I'm free, I work on my open-source projects, usually in NodeJS. Feel free to contact me if you have interesting project offerings.
 
