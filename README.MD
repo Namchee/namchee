@@ -4,18 +4,19 @@
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
     <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 
 
-Hiya there, Namchee here 👋. My real name is Cristopher, but too much Chris is confusing no? I received my bachelor degree at [Parahyangan Catholic University](http://unpar.ac.id/). I love to create and play with programming stuff.
+Hiya there, Namchee here 👋. I love to create something funky and explore the software engineering world.
 
-Although I'm a full-stack developer, I prefer back-end development. When I'm free, I work on my open-source projects, usually in NodeJS. Feel free to contact me if you have interesting project offerings.
+I brand myself as a full-stack developer, but I'm more proficient back-end development. When I'm free, I work on my open-source projects with various topics. Feel free to contact me if you have interesting project offerings.
 
 <p align="middle">
     <img src="https://github-readme-stats.vercel.app/api?username=namchee&show_icons=true" title="Namchee's GitHub Status" />
